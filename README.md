@@ -84,4 +84,4 @@ This project implements a bidirectional communication system using STM32 microco
 
 ---
 
-For further inquiries or contributions, feel free to reach out or submit an issue.
+For free to contribute or share an issue! 
